@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="com.esri.arcgis.javase.core.project.ARCGIS_RUNTIME_JAVA_SDK_DEPENDS/E|/JavaDev/eclipse/configuration/org.eclipse.osgi/917/0/.cp/lib/"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ArcGIS SDKs/java10.2.4/sdk/jars/ArcGIS_Runtime_Java_Toolkit.jar"/>
+	<classpathentry kind="lib" path="lib/commons-csv-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19/lib/swtgraphics2d.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

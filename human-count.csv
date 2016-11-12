@@ -1,0 +1,361 @@
+year,month,key,count
+2014,4,10 - 100 people,170
+2014,5,10 - 100 people,181
+2014,2,10 - 100 people,142
+2014,3,10 - 100 people,218
+2014,0,10 - 100 people,158
+2014,1,10 - 100 people,118
+2011,6,1 - 10 people,222
+2011,7,1 - 10 people,171
+2011,8,1 - 10 people,146
+2011,9,1 - 10 people,179
+2014,0,more than 10k people,0
+2011,10,1 - 10 people,156
+2011,11,1 - 10 people,137
+2014,5,more than 10k people,0
+2014,6,more than 10k people,0
+2014,7,more than 10k people,0
+2014,8,more than 10k people,0
+2014,1,more than 10k people,0
+2014,2,more than 10k people,0
+2014,3,more than 10k people,1
+2014,4,more than 10k people,0
+2011,0,1000-10000 people,4
+2011,1,1000-10000 people,2
+2014,10,10 - 100 people,166
+2011,2,1000-10000 people,13
+2014,11,10 - 100 people,65
+2011,3,1000-10000 people,4
+2014,8,10 - 100 people,129
+2011,4,1000-10000 people,2
+2014,9,more than 10k people,1
+2014,9,10 - 100 people,116
+2011,5,1000-10000 people,2
+2014,10,more than 10k people,0
+2014,6,10 - 100 people,155
+2011,6,1000-10000 people,4
+2014,11,more than 10k people,0
+2014,7,10 - 100 people,161
+2011,7,1000-10000 people,2
+2011,8,1000-10000 people,4
+2011,9,1000-10000 people,3
+2011,10,1000-10000 people,2
+2011,11,1000-10000 people,0
+2014,8,None,10618
+2014,9,None,9201
+2014,10,None,10048
+2011,0,1 - 10 people,197
+2014,11,None,7662
+2011,1,1 - 10 people,162
+2011,2,1 - 10 people,518
+2012,10,100 - 1000 people,15
+2011,3,1 - 10 people,231
+2012,11,100 - 1000 people,14
+2011,4,1 - 10 people,193
+2011,5,1 - 10 people,185
+2014,0,None,8647
+2012,6,100 - 1000 people,11
+2014,1,None,8273
+2012,7,100 - 1000 people,22
+2014,2,None,8881
+2012,8,100 - 1000 people,14
+2014,3,None,9346
+2012,9,100 - 1000 people,17
+2014,4,None,9034
+2012,2,100 - 1000 people,20
+2014,5,None,9584
+2012,3,100 - 1000 people,34
+2014,6,None,10175
+2012,4,100 - 1000 people,22
+2014,7,None,9285
+2012,5,100 - 1000 people,13
+2013,10,100 - 1000 people,26
+2013,11,100 - 1000 people,17
+2013,6,100 - 1000 people,15
+2013,7,100 - 1000 people,16
+2012,0,1 - 10 people,165
+2013,8,100 - 1000 people,16
+2012,1,1 - 10 people,177
+2013,9,100 - 1000 people,22
+2013,2,100 - 1000 people,13
+2013,3,100 - 1000 people,19
+2013,4,100 - 1000 people,19
+2013,5,100 - 1000 people,12
+2013,0,100 - 1000 people,16
+2013,1,100 - 1000 people,40
+2010,4,10 - 100 people,99
+2010,5,10 - 100 people,97
+2010,2,10 - 100 people,182
+2010,3,10 - 100 people,107
+2010,0,10 - 100 people,89
+2010,1,10 - 100 people,138
+2012,0,1000-10000 people,1
+2012,1,1000-10000 people,3
+2012,2,1000-10000 people,2
+2012,3,1000-10000 people,4
+2012,4,1000-10000 people,0
+2012,5,1000-10000 people,3
+2012,6,1000-10000 people,3
+2012,7,1000-10000 people,3
+2012,8,1000-10000 people,2
+2012,9,1000-10000 people,1
+2012,10,1000-10000 people,1
+2012,11,1000-10000 people,3
+2010,2,1 - 10 people,259
+2010,3,1 - 10 people,234
+2010,4,1 - 10 people,151
+2010,5,1 - 10 people,148
+2010,6,1 - 10 people,220
+2010,7,1 - 10 people,174
+2010,8,1 - 10 people,155
+2010,9,1 - 10 people,170
+2010,0,1 - 10 people,130
+2010,1,1 - 10 people,180
+2010,8,None,1246
+2013,8,10 - 100 people,113
+2010,9,None,1273
+2013,9,10 - 100 people,102
+2010,10,None,1359
+2013,6,10 - 100 people,81
+2010,11,None,1764
+2013,7,10 - 100 people,116
+2013,4,10 - 100 people,90
+2013,5,10 - 100 people,61
+2013,2,10 - 100 people,76
+2013,3,10 - 100 people,96
+2010,0,None,1125
+2013,0,10 - 100 people,76
+2013,1,more than 10k people,3
+2010,1,None,1273
+2013,1,10 - 100 people,129
+2013,2,more than 10k people,0
+2010,2,None,1544
+2013,3,more than 10k people,0
+2010,3,None,3154
+2013,4,more than 10k people,2
+2010,4,None,1124
+2010,5,None,1156
+2010,6,None,2388
+2010,7,None,1570
+2013,0,more than 10k people,1
+2013,9,more than 10k people,0
+2013,10,more than 10k people,2
+2013,11,more than 10k people,0
+2013,5,more than 10k people,0
+2013,6,more than 10k people,1
+2013,7,more than 10k people,0
+2013,8,more than 10k people,0
+2013,10,10 - 100 people,178
+2013,11,10 - 100 people,148
+2011,4,None,1464
+2011,5,None,1292
+2011,6,None,1546
+2011,7,None,1385
+2012,0,more than 10k people,0
+2011,8,None,1285
+2011,9,None,1207
+2011,10,None,1310
+2011,11,None,1078
+2012,5,more than 10k people,0
+2012,6,more than 10k people,0
+2012,7,more than 10k people,0
+2012,8,more than 10k people,1
+2011,0,None,1293
+2012,1,more than 10k people,0
+2011,1,None,1116
+2012,2,more than 10k people,0
+2011,2,None,3123
+2012,3,more than 10k people,2
+2011,3,None,1539
+2012,4,more than 10k people,0
+2012,9,more than 10k people,0
+2012,10,more than 10k people,1
+2012,11,more than 10k people,0
+2013,0,1000-10000 people,1
+2013,1,1000-10000 people,6
+2013,2,1000-10000 people,2
+2013,3,1000-10000 people,3
+2013,4,1000-10000 people,5
+2013,5,1000-10000 people,1
+2013,6,1000-10000 people,1
+2013,7,1000-10000 people,0
+2010,10,1 - 10 people,162
+2013,8,1000-10000 people,0
+2010,11,1 - 10 people,227
+2013,9,1000-10000 people,4
+2013,10,1000-10000 people,2
+2013,11,1000-10000 people,2
+2014,10,100 - 1000 people,21
+2014,11,100 - 1000 people,21
+2014,6,100 - 1000 people,20
+2014,7,100 - 1000 people,13
+2014,8,100 - 1000 people,20
+2014,9,100 - 1000 people,13
+2014,2,100 - 1000 people,17
+2014,3,100 - 1000 people,31
+2014,4,100 - 1000 people,21
+2014,5,100 - 1000 people,19
+2014,0,100 - 1000 people,15
+2014,1,100 - 1000 people,13
+2010,6,100 - 1000 people,31
+2010,7,100 - 1000 people,25
+2010,8,100 - 1000 people,29
+2010,9,100 - 1000 people,21
+2010,2,100 - 1000 people,47
+2010,3,100 - 1000 people,21
+2010,4,100 - 1000 people,25
+2010,5,100 - 1000 people,17
+2010,0,100 - 1000 people,31
+2010,1,100 - 1000 people,31
+2012,10,10 - 100 people,115
+2012,11,10 - 100 people,114
+2012,8,10 - 100 people,126
+2014,0,1000-10000 people,1
+2012,9,10 - 100 people,134
+2014,1,1000-10000 people,3
+2012,6,10 - 100 people,101
+2014,2,1000-10000 people,3
+2012,7,10 - 100 people,111
+2014,3,1000-10000 people,7
+2012,4,10 - 100 people,100
+2014,4,1000-10000 people,3
+2012,5,10 - 100 people,92
+2014,5,1000-10000 people,2
+2012,2,10 - 100 people,120
+2014,6,1000-10000 people,2
+2012,3,10 - 100 people,157
+2014,7,1000-10000 people,1
+2012,0,10 - 100 people,117
+2014,8,1000-10000 people,4
+2012,1,10 - 100 people,129
+2014,9,1000-10000 people,2
+2014,10,1000-10000 people,5
+2014,11,1000-10000 people,4
+2012,0,None,1155
+2014,2,1 - 10 people,247
+2011,1,more than 10k people,0
+2012,1,None,1169
+2014,3,1 - 10 people,310
+2011,2,more than 10k people,2
+2012,2,None,1236
+2014,4,1 - 10 people,238
+2011,3,more than 10k people,0
+2012,3,None,1464
+2014,5,1 - 10 people,308
+2011,4,more than 10k people,0
+2012,4,None,1215
+2014,6,1 - 10 people,217
+2012,5,None,1110
+2014,7,1 - 10 people,226
+2012,6,None,1134
+2014,8,1 - 10 people,208
+2012,7,None,1466
+2014,9,1 - 10 people,189
+2011,0,more than 10k people,1
+2011,9,more than 10k people,0
+2011,10,more than 10k people,0
+2011,11,more than 10k people,0
+2011,5,more than 10k people,0
+2011,6,more than 10k people,1
+2014,0,1 - 10 people,206
+2011,7,more than 10k people,0
+2014,1,1 - 10 people,187
+2011,8,more than 10k people,1
+2012,8,None,1773
+2014,10,1 - 10 people,265
+2012,9,None,1374
+2014,11,1 - 10 people,128
+2012,10,None,1284
+2012,11,None,1228
+2010,10,100 - 1000 people,22
+2010,11,100 - 1000 people,39
+2010,5,more than 10k people,0
+2010,6,more than 10k people,0
+2010,7,more than 10k people,0
+2010,8,more than 10k people,1
+2013,0,None,886
+2010,1,more than 10k people,2
+2013,1,None,5599
+2010,2,more than 10k people,0
+2013,2,None,8092
+2010,3,more than 10k people,0
+2013,3,None,7473
+2010,4,more than 10k people,2
+2010,10,10 - 100 people,109
+2010,11,10 - 100 people,156
+2010,8,10 - 100 people,114
+2010,9,more than 10k people,0
+2010,9,10 - 100 people,88
+2010,10,more than 10k people,0
+2010,6,10 - 100 people,107
+2010,11,more than 10k people,1
+2010,7,10 - 100 people,117
+2013,4,None,8163
+2011,10,100 - 1000 people,28
+2013,5,None,7043
+2011,11,100 - 1000 people,19
+2013,6,None,7052
+2013,7,None,7973
+2013,8,None,7521
+2011,6,100 - 1000 people,34
+2013,9,None,7836
+2011,7,100 - 1000 people,24
+2013,10,None,7909
+2011,8,100 - 1000 people,20
+2013,11,None,8225
+2011,9,100 - 1000 people,25
+2012,10,1 - 10 people,173
+2011,2,100 - 1000 people,92
+2012,11,1 - 10 people,167
+2011,3,100 - 1000 people,17
+2011,4,100 - 1000 people,27
+2011,5,100 - 1000 people,27
+2011,0,100 - 1000 people,30
+2011,1,100 - 1000 people,24
+2012,2,1 - 10 people,211
+2012,3,1 - 10 people,236
+2012,4,1 - 10 people,156
+2012,5,1 - 10 people,144
+2012,6,1 - 10 people,134
+2012,7,1 - 10 people,191
+2012,8,1 - 10 people,229
+2012,9,1 - 10 people,179
+2010,0,1000-10000 people,2
+2010,1,1000-10000 people,1
+2010,2,1000-10000 people,3
+2010,3,1000-10000 people,0
+2010,4,1000-10000 people,2
+2010,5,1000-10000 people,2
+2010,6,1000-10000 people,3
+2010,7,1000-10000 people,1
+2010,8,1000-10000 people,3
+2010,9,1000-10000 people,3
+2010,10,1000-10000 people,2
+2010,11,1000-10000 people,4
+2013,6,1 - 10 people,117
+2013,7,1 - 10 people,156
+2013,8,1 - 10 people,162
+2012,0,100 - 1000 people,30
+2013,9,1 - 10 people,167
+2012,1,100 - 1000 people,29
+2013,10,1 - 10 people,230
+2013,11,1 - 10 people,211
+2013,0,1 - 10 people,106
+2013,1,1 - 10 people,194
+2013,2,1 - 10 people,118
+2013,3,1 - 10 people,145
+2013,4,1 - 10 people,133
+2013,5,1 - 10 people,116
+2011,0,10 - 100 people,143
+2011,1,10 - 100 people,94
+2011,10,10 - 100 people,106
+2011,11,10 - 100 people,106
+2011,8,10 - 100 people,104
+2011,9,10 - 100 people,117
+2011,6,10 - 100 people,137
+2011,7,10 - 100 people,109
+2011,4,10 - 100 people,150
+2011,5,10 - 100 people,123
+2011,2,10 - 100 people,425
+2011,3,10 - 100 people,159
+2010,0,more than 10k people,0
